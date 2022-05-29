@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS , Devops Practices**
 
-- 💬 Ask me about **IaaS , Containerization ,**
+- 💬 Ask me about **Amazon Web Services ,Linux ,Devops **
 
 - 📫 How to reach me **can.tanriverdi01@gmail.com**
 
