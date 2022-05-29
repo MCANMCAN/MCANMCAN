@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can.</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from Istanbul.</h3>
 
-- 🌱 I’m currently learning **AWS , Devops Practices**
+- 🌱 I’m currently learning **AWS , Devops **
 
 - 💬 Ask me about **Amazon Web Services ,Linux ,Devops **
 
-- 📫 How to reach me **can.tanriverdi01@gmail.com**
+- 📫 How to reach me **can.tanriverdi01@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
